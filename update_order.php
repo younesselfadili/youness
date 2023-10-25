@@ -7,7 +7,7 @@ if (!isset($_SESSION['admin']) || $_SESSION['admin'] !== true) {
 }
 
 $servername = "localhost";
-$username = "zouhair";
+$username = "youness";
 $password = "admin";
 $dbname = "iphonedb";
 
